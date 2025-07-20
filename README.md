@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋, I'm Garima!
 
-<!--
-**garimamittal13/garimamittal13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m currently pursuing Electronics and Communications Engineering at IIIT Hyderabad
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" />
+</p>
+
+---
+## GitHub Stats
+
+![Radhaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=garimamittal13&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=garimamittal13&layout=compact&theme=radical)
+
+## Projects
+
+- Checkout my projects here [Click here](https://github.com/garimamittal13?tab=repositories)
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/garima-mittal-309bb6292/)
+- [Personal Website](https://garimamittal13.github.io/)
